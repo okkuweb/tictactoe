@@ -3,7 +3,7 @@ The code here is part of a working tic-tac-toe API implementation. This reposito
 ## Interfacing with the API
 To interface with the API, import the `tictactoe.postman_collection.json` in Postman
 - In the `PUT` request the `board` content has to be manually updated whenever making a move 
-- The "XOX---X-O" board in the responses translates to the following tictactoe board
+- The `XOX---X-O` board in the responses translates to the following tictactoe board
 ```
 XOX
 ---
